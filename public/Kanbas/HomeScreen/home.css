@@ -21,7 +21,7 @@
     color: white; /* Text color when checked */
 }
 
-<style>
+
         /* Add CSS styling here */
         table {
             width: 100%;
@@ -46,5 +46,13 @@
         .wd-text-endhome{
             text-align: end;
         }
+
+
+        .lfspace {
+            padding-left: 25px;
+        }
+
+        .leftspace {
+            padding-left: 50px;
+        }
        
-    </style>
