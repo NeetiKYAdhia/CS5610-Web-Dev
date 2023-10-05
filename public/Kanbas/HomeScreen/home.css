@@ -1,0 +1,50 @@
+/* Style for the round checkbox */
+.round-checkbox {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%; /* Makes it round */
+    appearance: none; /* Remove default styles */
+    cursor: pointer;
+}
+
+/* Style for the custom checkbox appearance when checked */
+.round-checkbox:checked {
+    background-color: #2196F3; /* Change the background color when checked */
+}
+
+/* Style for the custom checkbox appearance when checked */
+.round-checkbox:checked::before {
+    content: "\2713"; /* Unicode checkmark symbol */
+    display: block;
+    text-align: center;
+    line-height: 20px; /* Center the checkmark vertically */
+    color: white; /* Text color when checked */
+}
+
+<style>
+        /* Add CSS styling here */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+
+        .wd-text-endhome{
+            text-align: end;
+        }
+       
+    </style>

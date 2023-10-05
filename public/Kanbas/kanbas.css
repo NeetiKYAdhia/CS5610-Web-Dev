@@ -1,0 +1,61 @@
+.kanbasnavigationul {
+    background-color: black;
+    list-style: none;
+    width: 98px;
+    text-align: center;
+    padding: 0;
+    
+}
+
+.anchor-kanbas{
+color: white;
+
+text-decoration: none;
+}
+
+
+.list-items-of-kanbas-navigation{
+text-align: center;
+padding: 10px;
+}
+a{
+    color: white;
+}
+i{
+    color: red;
+    font-size: 39px;
+}
+
+.list-items-of-kanbas-navigation-me 
+{
+    text-align: center;
+    padding: 10px;
+    }
+    a{
+        color: white;
+    }
+    i{
+        color: rgb(205, 13, 13);
+        font-size: 39px;
+    }
+.kanbas-icon{
+    display: block !important;
+}
+
+.secondcolul{
+    background-color: white;
+    list-style: none;
+    width: 120px;
+    text-align: left;
+    padding: 0;
+
+}
+.anchor-new{
+    color: red;
+    text-decoration: none;
+    }
+
+    .list-items-navigate {
+        text-align: left;
+        padding: 10px;
+        }    
