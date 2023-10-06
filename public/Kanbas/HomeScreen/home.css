@@ -55,4 +55,26 @@
         .leftspace {
             padding-left: 50px;
         }
+
+        .studentview{ 
+            padding-left: 50px;
+
+        }
+
+        .green-button {
+            display: inline-block;
+            padding: 10px 20px;
+            /* Adjust padding as needed */
+            background-color: #4CAF50;
+            /* Green color */
+            color: white;
+            /* Text color */
+            text-decoration: none;
+            /* Remove underline on hover */
+            border: none;
+            /* Remove button border */
+            border-radius: 5px;
+            /* Rounded corners */
+            cursor: pointer;
+          }
        
